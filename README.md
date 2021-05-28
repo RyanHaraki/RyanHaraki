@@ -1,4 +1,4 @@
-a### Hey, My name is Ryan Haraki! 👋
+### Hey, My name is Ryan Haraki! 👋
 
 
 - 🔭 I’m currently working on [Good Day](https://gooddayapp.co)
